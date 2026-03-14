@@ -1,6 +1,6 @@
 # HR Helper
 
-HR Helper checks candidate qualifications and assists in recruitment processes.
+随机抽奖助手
 
 ## Getting Started
 
